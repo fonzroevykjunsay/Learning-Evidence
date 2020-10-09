@@ -5,8 +5,7 @@
 <body>
 <div class="page">
   <nav class="navbar">
-    <button class="navbar-item">Register</button>
-    <button class="navbar-item">Sign in</button>
+    <button class="navbar-item">Brought to you by Explosive comics!</button>
     <div class="anim"></div>
 </nav>
   <div class="logo">
